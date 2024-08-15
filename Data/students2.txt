@@ -1,0 +1,50 @@
+ID,FirstName,LastName,Age,GPA,College,Department,Gender
+237845,Emma,Thompson,19,3.8,Stanford University,Computer Science,Female
+561293,Michael,Chen,21,3.5,MIT,Electrical Engineering,Male
+894621,Sophia,Patel,20,3.9,Harvard University,Biology,Female
+312756,Ethan,Rodriguez,22,3.6,UC Berkeley,Psychology,Male
+785134,Olivia,Kim,18,4.0,Yale University,Economics,Female
+429867,Noah,Johnson,21,3.7,Columbia University,History,Male
+653981,Ava,Nguyen,19,3.4,Duke University,Chemistry,Female
+178342,Liam,Garcia,20,3.8,University of Chicago,Mathematics,Male
+506729,Isabella,Brown,22,3.6,Princeton University,Political Science,Female
+943215,Mason,Davis,19,3.9,Caltech,Physics,Male
+367854,Zoe,Wilson,20,3.7,Cornell University,Environmental Science,Female
+802416,Alexander,Martinez,21,3.5,Johns Hopkins University,Biomedical Engineering,Male
+594738,Mia,Taylor,18,3.8,Northwestern University,Journalism,Female
+126573,Daniel,Lee,22,3.9,University of Pennsylvania,Business Administration,Male
+489201,Harper,Anderson,19,3.6,Dartmouth College,Anthropology,Female
+735682,William,Jackson,20,3.7,Vanderbilt University,Mechanical Engineering,Male
+951347,Evelyn,White,21,3.8,Rice University,Computer Engineering,Female
+284965,James,Harris,19,3.5,Washington University in St. Louis,Neuroscience,Male
+617823,Abigail,Martin,22,3.9,Georgetown University,International Relations,Female
+843519,Benjamin,Thompson,20,3.6,University of Michigan,Aerospace Engineering,Male
+392674,Charlotte,Moore,18,4.0,Carnegie Mellon University,Robotics,Female
+756128,Samuel,Clark,21,3.7,Tufts University,Chemical Engineering,Male
+524891,Amelia,Lewis,19,3.8,University of Virginia,Architecture,Female
+168347,Henry,Walker,22,3.5,University of California San Diego,Oceanography,Male
+937562,Elizabeth,Hall,20,3.9,University of Southern California,Film Studies,Female
+415829,Owen,Allen,21,3.6,Boston University,Linguistics,Male
+683275,Sofia,Young,19,3.7,Emory University,Public Health,Female
+259634,Christopher,King,22,3.8,University of Wisconsin-Madison,Agricultural Science,Male
+791458,Scarlett,Wright,18,3.5,University of Illinois Urbana-Champaign,Materials Science,Female
+536982,Jacob,Scott,20,3.9,University of Texas at Austin,Geology,Male
+874321,Victoria,Green,21,3.6,University of Washington,Marine Biology,Female
+142796,Ryan,Baker,19,3.7,University of North Carolina at Chapel Hill,Sociology,Male
+628543,Grace,Adams,22,3.8,University of Florida,Biotechnology,Female
+395187,Elijah,Nelson,20,3.5,Ohio State University,Astronomy,Male
+867452,Chloe,Hill,18,4.0,Purdue University,Industrial Engineering,Female
+213965,Jonathan,Ramirez,21,3.6,Georgia Institute of Technology,Nuclear Engineering,Male
+579634,Lily,Campbell,19,3.9,University of Minnesota,Genetics,Female
+846129,David,Mitchell,22,3.7,University of Colorado Boulder,Atmospheric Science,Male
+732581,Zoey,Roberts,20,3.8,University of Arizona,Optical Sciences,Female
+495867,Luke,Carter,18,3.5,University of California Davis,Veterinary Medicine,Male
+918234,Penelope,Phillips,21,3.9,University of Maryland,Cybersecurity,Female
+364729,Andrew,Evans,19,3.6,Rensselaer Polytechnic Institute,Data Science,Male
+687152,Nora,Turner,22,3.7,University of Pittsburgh,Pharmacy,Female
+541938,Isaac,Torres,20,3.8,University of Georgia,Forestry,Male
+829476,Audrey,Parker,18,3.5,Texas A&M University,Petroleum Engineering,Female
+173654,Dylan,Collins,21,3.9,University of Connecticut,Nutritional Sciences,Male
+456321,Skylar,Edwards,19,3.6,University of Oregon,Sports Management,Female
+782945,Caleb,Stewart,22,3.7,University of Iowa,Actuarial Science,Male
+619583,Bella,Sanchez,20,3.8,University of Utah,Game Design,Female

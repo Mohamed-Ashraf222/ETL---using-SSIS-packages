@@ -1,0 +1,59 @@
+ID	First Name	Last Name	Age	College	Department	Gender	Monthly Salary
+724185	Robert	Johnson	45	Stanford University	Computer Science	Male	$12,083.33
+639274	Jennifer	Lee	52	MIT	Electrical Engineering	Female	$11,500.00
+851936	Michael	Chen	39	Harvard University	Biology	Male	$10,833.33
+427158	Sarah	Rodriguez	48	UC Berkeley	Psychology	Female	$11,250.00
+593762	David	Kim	56	Yale University	Economics	Male	$11,833.33
+318645	Emily	Patel	41	Columbia University	History	Female	$10,666.67
+746293	Thomas	Nguyen	50	Duke University	Chemistry	Male	$11,416.67
+582417	Laura	Garcia	44	University of Chicago	Mathematics	Female	$11,083.33
+915634	Richard	Brown	58	Princeton University	Political Science	Male	$12,166.67
+237891	Karen	Davis	47	Caltech	Physics	Female	$11,583.33
+694375	Daniel	Wilson	53	Cornell University	Environmental Science	Male	$11,333.33
+548216	Maria	Martinez	42	Johns Hopkins University	Biomedical Engineering	Female	$11,000.00
+873542	Paul	Taylor	49	Northwestern University	Journalism	Male	$10,750.00
+162739	Lisa	Anderson	55	University of Pennsylvania	Business Administration	Female	$12,000.00
+495823	James	Jackson	40	Dartmouth College	Anthropology	Male	$10,500.00
+731568	Michelle	White	51	Vanderbilt University	Mechanical Engineering	Female	$11,500.00
+284619	Steven	Harris	46	Rice University	Computer Engineering	Male	$11,250.00
+657392	Angela	Martin	54	Washington University in St. Louis	Neuroscience	Female	$11,750.00
+943751	Christopher	Thompson	43	Georgetown University	International Relations	Male	$11,083.33
+528146	Elizabeth	Moore	57	University of Michigan	Aerospace Engineering	Female	$12,083.33
+375294	William	Clark	38	Carnegie Mellon University	Robotics	Male	$10,833.33
+819637	Patricia	Lewis	50	Tufts University	Chemical Engineering	Female	$11,416.67
+462185	Joseph	Walker	45	University of Virginia	Architecture	Male	$11,166.67
+739516	Nancy	Hall	52	University of California San Diego	Oceanography	Female	$11,583.33
+594273	Mark	Allen	49	University of Southern California	Film Studies	Male	$11,333.33
+183647	Susan	Young	44	Boston University	Linguistics	Female	$10,916.67
+857321	George	King	56	Emory University	Public Health	Male	$11,916.67
+629485	Deborah	Wright	41	University of Wisconsin-Madison	Agricultural Science	Female	$10,750.00
+347916	Kevin	Scott	53	University of Illinois Urbana-Champaign	Materials Science	Male	$11,500.00
+752814	Linda	Green	47	University of Texas at Austin	Geology	Female	$11,250.00
+496352	Charles	Baker	59	University of Washington	Marine Biology	Male	$12,250.00
+238167	Barbara	Adams	43	University of North Carolina at Chapel Hill	Sociology	Female	$11,000.00
+915743	Timothy	Nelson	51	University of Florida	Biotechnology	Male	$11,583.33
+684231	Margaret	Hill	46	Ohio State University	Astronomy	Female	$11,166.67
+573819	Jeffrey	Ramirez	55	Purdue University	Industrial Engineering	Male	$11,833.33
+129456	Sandra	Campbell	40	Georgia Institute of Technology	Nuclear Engineering	Female	$10,833.33
+847526	Ronald	Mitchell	52	University of Minnesota	Genetics	Male	$11,500.00
+362194	Carol	Roberts	48	University of Colorado Boulder	Atmospheric Science	Female	$11,333.33
+759831	Edward	Carter	57	University of Arizona	Optical Sciences	Male	$12,000.00
+425718	Ruth	Phillips	42	University of California Davis	Veterinary Medicine	Female	$10,916.67
+683147	Jason	Evans	50	University of Maryland	Cybersecurity	Male	$11,416.67
+591384	Judy	Turner	45	Rensselaer Polytechnic Institute	Data Science	Female	$11,083.33
+274965	Brian	Torres	54	University of Pittsburgh	Pharmacy	Male	$11,666.67
+836512	Sharon	Parker	39	University of Georgia	Forestry	Female	$10,666.67
+157329	Stephen	Collins	51	Texas A&M University	Petroleum Engineering	Male	$11,583.33
+942681	Kathleen	Edwards	46	University of Connecticut	Nutritional Sciences	Female	$11,166.67
+513874	Gary	Stewart	55	University of Oregon	Sports Management	Male	$11,750.00
+789235	Helen	Sanchez	43	University of Iowa	Actuarial Science	Female	$11,000.00
+346192	Frank	Rivera	58	University of Utah	Game Design	Male	$12,083.33
+625814	Diane	Cooper	47	Oregon State University	Forestry	Female	$11,250.00
+971385	Raymond	Reed	52	University of Nebraska-Lincoln	Agricultural Economics	Male	$11,500.00
+483629	Virginia	Bailey	41	University of Kansas	Aerospace Engineering	Female	$10,833.33
+158723	Gerald	Bell	56	University of Oklahoma	Meteorology	Male	$11,833.33
+794536	Janice	Murphy	49	University of Missouri	Journalism	Female	$11,333.33
+267914	Walter	Richardson	44	University of Alabama	Criminology	Male	$11,083.33
+536189	Catherine	Wood	53	University of Kentucky	Pharmacy	Female	$11,583.33
+891475	Peter	Ross	38	University of Tennessee	Nuclear Engineering	Male	$10,750.00
+415732	Frances	Watson	50	University of South Carolina	Marine Science	Female	$11,416.67
